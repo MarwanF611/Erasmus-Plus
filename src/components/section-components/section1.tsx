@@ -38,12 +38,12 @@ export default function Section1() {
           </svg>
 
           <h2 className="mt-4 text-xl font-bold text-white">
-            Digital campaigns
+            Wie ben ik?
           </h2>
 
           <p className="mt-1 text-sm text-gray-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-            possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+            Wie ben ik, wat studeer ik en wat zijn mijn
+            hobby's. 
           </p>
         </a>
       </div>
@@ -78,12 +78,11 @@ export default function Section1() {
                     as="h3"
                     className="text-lg font-medium leading-6 text-gray-900"
                   >
-                    Section 1 successful
+                    Wie ben ik?
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500">
-                      Your payment has been successfully submitted. We’ve sent
-                      you an email with all of the details of your order.
+                    Als eerst wil ik mezelf even voorstelen. Ik ben Marwan Fikri, een 16 jarige student die momenteel aan zijn laatste weken zit van de studie richting IT en Netwerken in het 5de middelbaar. Deze richting volg ik op Sint-Ursula Instituut in Lier. Mijn Hobby’s zijn fitness en tijd spenderen met familie. Mijn grootste droom is om ervoor te zorgen dat ik nog meer tijd kan spenderen met mijn ouders en met mijn kinderen later. Mijn grootste passie is het creëren van allerlei soorten dingen. Dit kan variëren van maaltijden tot websites.
                     </p>
                   </div>
 

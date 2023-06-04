@@ -38,12 +38,12 @@ export default function Section1() {
           </svg>
 
           <h2 className="mt-4 text-xl font-bold text-white">
-            Digital campaigns
+          Wat maakt mij anders dan de andere?
           </h2>
 
           <p className="mt-1 text-sm text-gray-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-            possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+            Waarom ben ik de perfecte 
+            match voor Erasmus+ 2024?
           </p>
         </a>
       </div>
@@ -78,12 +78,21 @@ export default function Section1() {
                     as="h3"
                     className="text-lg font-medium leading-6 text-gray-900"
                   >
-                    sectio 4 successful
+                    Wat maakt mij anders dan de andere?
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500">
-                      Your payment has been successfully submitted. We’ve sent
-                      you an email with all of the details of your order.
+                    De vraag is nu waarom specifiek ik, Waarom ben ik anders. 
+                    Ik ben iemand die al op een jonge leeftijd veel verantwoordelijkheid 
+                    heeft moeten nemen voor verschillende dingen. 
+                    Zo heb ik al een route van 8 uur lang moeten uitstippen die
+                    door 3 landen ging. Ik heb ook al vakanties moeten boeken voor 
+                     ons hele gezin en ervoor zorgen dat we op tijd op de luchthaven 
+                     zijn, op tijd inchecken en op tijd boarden. 
+                     En dan spreek ik nog niet over het vervoer van en 
+                     naar de luchthaven. Een leuk anekdote die recent nog is 
+                     gebeurd geeft weer hoe goed ik werkelijk kan plannen, 
+                     Wij waren namelijk onderweg naar een familielid in Sint-Niklaas maar de E17 was afgesloten tussen Sint-Niklaas en Antwerpen. Ik had al een route uitgestippeld voor mijn vader maar de GPS stuurde ons door een tunnel die uitkwam in het LEZ (Lage emissiezone) van Antwerpen. Onze auto mag daar niet binnen en we konden een boete riskeren die 350euro ging kosten (iets wat niemand wilt). Op het laatste moment heb ik ervoor gezorgd dat mijn vader kon afslagen  en zo op de singel terecht kon komen. Verderop ter hoogte van Zwijndrecht zagen we dat er file was op de E17 die onze rit met 3 uur kon vertragen. Ik heb ervoor gezorgd dat die 3 uur verkort werd naar 1 uur door de binnenwegen van Zwijndrecht en Beveren te gebruiken en zo nog op tijd te komen bij onze familie. Kortom ben ik iemand die goed kan plannen en een oplossing kan vinden als het eens niet goed uitkomt.
                     </p>
                   </div>
 
