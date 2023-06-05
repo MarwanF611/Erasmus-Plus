@@ -6,7 +6,7 @@ import Section from "./components/Section";
 export default function App() {
   return (
     <div>
-      <NavBar />;
+      <NavBar />
       <Banner />
       <Section />
       <Footer />
