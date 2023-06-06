@@ -14,11 +14,11 @@ export default function Section1() {
 
   return (
     <section className="bg-gray-900 text-white">
-      <div className="mx-auto max-w-screen-xl px-4 py-8 sm:py-12 sm:px-6 lg:py-16 lg:px-8 ">
+      <div className="mx-auto max-w-screen-xl px-4 py-6 sm:py-7 sm:px-6 lg:py-9 lg:px-8 ">
         <a
           onClick={openModal}
           style={{ cursor: "pointer" }}
-          className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-blue-500/10 hover:shadow-blue-500/10 "
+          className="block rounded-xl border-[3px] border-gray-800 p-8 transition hover:border-green-300"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
