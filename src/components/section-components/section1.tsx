@@ -73,15 +73,15 @@ export default function Section1() {
                 leaveFrom="opacity-100 scale-100"
                 leaveTo="opacity-0 scale-95"
               >
-                <Dialog.Panel className="w-full max-w-md transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all">
+                <Dialog.Panel className="w-full max-w-md transform overflow-hidden rounded-2xl bg-gray-900 p-6 text-left align-middle shadow-xl transition-all">
                   <Dialog.Title
                     as="h3"
-                    className="text-lg font-medium leading-6 text-gray-900"
+                    className="text-lg font-medium leading-6 text-white"
                   >
                     Wie ben ik?
                   </Dialog.Title>
                   <div className="mt-2">
-                    <p className="text-sm text-gray-500">
+                    <p className="text-sm text-gray-300">
                     Als eerst wil ik mezelf even voorstelen. Ik ben Marwan Fikri, een 16 jarige student die momenteel aan zijn laatste weken zit van de studie richting IT en Netwerken in het 5de middelbaar. Deze richting volg ik op Sint-Ursula Instituut in Lier. Mijn Hobby’s zijn fitness en tijd spenderen met familie. Mijn grootste droom is om ervoor te zorgen dat ik nog meer tijd kan spenderen met mijn ouders en met mijn kinderen later. Mijn grootste passie is het creëren van allerlei soorten dingen. Dit kan variëren van maaltijden tot websites.
                     </p>
                   </div>
