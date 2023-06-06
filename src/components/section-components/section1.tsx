@@ -18,7 +18,7 @@ export default function Section1() {
         <a
           onClick={openModal}
           style={{ cursor: "pointer" }}
-          className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-blue-500/10 hover:shadow-blue-500/10 "
+          className="block rounded-xl border-[3.1px] border-gray-800 p-8 transition hover:border-green-300"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -37,13 +37,10 @@ export default function Section1() {
             />
           </svg>
 
-          <h2 className="mt-4 text-xl font-bold text-white">
-            Wie ben ik?
-          </h2>
+          <h2 className="mt-4 text-xl font-bold text-white">Wie ben ik?</h2>
 
           <p className="mt-1 text-sm text-gray-300">
-            Wie ben ik, wat studeer ik en wat zijn mijn
-            hobby's. 
+            Wie ben ik, wat studeer ik en wat zijn mijn hobby's.
           </p>
         </a>
       </div>
@@ -82,7 +79,16 @@ export default function Section1() {
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500">
-                    Als eerst wil ik mezelf even voorstelen. Ik ben Marwan Fikri, een 16 jarige student die momenteel aan zijn laatste weken zit van de studie richting IT en Netwerken in het 5de middelbaar. Deze richting volg ik op Sint-Ursula Instituut in Lier. Mijn Hobby’s zijn fitness en tijd spenderen met familie. Mijn grootste droom is om ervoor te zorgen dat ik nog meer tijd kan spenderen met mijn ouders en met mijn kinderen later. Mijn grootste passie is het creëren van allerlei soorten dingen. Dit kan variëren van maaltijden tot websites.
+                      Als eerst wil ik mezelf even voorstelen. Ik ben Marwan
+                      Fikri, een 16 jarige student die momenteel aan zijn
+                      laatste weken zit van de studie richting IT en Netwerken
+                      in het 5de middelbaar. Deze richting volg ik op
+                      Sint-Ursula Instituut in Lier. Mijn Hobby’s zijn fitness
+                      en tijd spenderen met familie. Mijn grootste droom is om
+                      ervoor te zorgen dat ik nog meer tijd kan spenderen met
+                      mijn ouders en met mijn kinderen later. Mijn grootste
+                      passie is het creëren van allerlei soorten dingen. Dit kan
+                      variëren van maaltijden tot websites.
                     </p>
                   </div>
 

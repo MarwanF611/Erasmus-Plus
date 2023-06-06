@@ -18,7 +18,7 @@ export default function Section1() {
         <a
           onClick={openModal}
           style={{ cursor: "pointer" }}
-          className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-blue-500/10 hover:shadow-blue-500/10 "
+          className="block rounded-xl border-[3.1px] border-gray-800 p-8 transition hover:border-green-300"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -81,7 +81,37 @@ export default function Section1() {
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500">
-                    Vanwege de corona pandemie leek school voor mij saai en depressief. Er was niks om naar uit te kijken. Elke dag weer achter die laptop of dat vervelende mondkapje de hele dag ophebben. Het waren jaren om niet naar uit te kijken. Dankzij de pandemie waren veel schoolse activiteiten afgelast dus leek school maar saai. Maar gelukkig zijn die tijden voorbij en kunnen we uitkijken naar een spannende en boeiende internationale stage. Aangezien het volgend jaar mijn laatste jaar is op onze school, Zou ik graag het jaar op een mooie manier afsluiten. Dat kan niet beter dan één van de ambassadeurs te worden van het Erasmus+ project. In mijn ogen zie ik dit niet als een soort stage met vakantie erbij, maar eerder als een kans om jezelf te verbeteren en je vaardigheden toe te passen. Het is de perfecte kans om mezelf voor te berieden voor de echte wereld, Een kans om te zien hoe goed je eigenlijk echt bent. Zeker op het vlak van zelfstandigheid en verantwoordelijkheid. Het is ook het perfecte moment om mezelf sterker te maken op vlak van zelfstandigheid, verantwoordelijkheid, communicatie en taal, aangezien talen niet één van mijn sterkste punten zijn. Hoewel ik nog goed Engels en Nederlands spreek gaat het meestal mis bij frans of bij een nieuwe taal. Het leren van een vreemde taal is een uitdaging die soms misloopt bij mij. De laatste reden waarom ik zo graag ambassadeur wil worden is om nieuwe culturen te leren kennen. Niet alleen de cultuur van één van de bestemmingen, maar ook de cultuur van mijn mede leerlingen. Zo kom je hun dag routine en eetgewoontes te weten. Ik ben opgewonden om ook mijn cultuur te laten zien aan mijn medeleerlingen. Van alles wat de Marokkaanse cultuur aan te bieden heeft. 
+                      Vanwege de corona pandemie leek school voor mij saai en
+                      depressief. Er was niks om naar uit te kijken. Elke dag
+                      weer achter die laptop of dat vervelende mondkapje de hele
+                      dag ophebben. Het waren jaren om niet naar uit te kijken.
+                      Dankzij de pandemie waren veel schoolse activiteiten
+                      afgelast dus leek school maar saai. Maar gelukkig zijn die
+                      tijden voorbij en kunnen we uitkijken naar een spannende
+                      en boeiende internationale stage. Aangezien het volgend
+                      jaar mijn laatste jaar is op onze school, Zou ik graag het
+                      jaar op een mooie manier afsluiten. Dat kan niet beter dan
+                      één van de ambassadeurs te worden van het Erasmus+
+                      project. In mijn ogen zie ik dit niet als een soort stage
+                      met vakantie erbij, maar eerder als een kans om jezelf te
+                      verbeteren en je vaardigheden toe te passen. Het is de
+                      perfecte kans om mezelf voor te berieden voor de echte
+                      wereld, Een kans om te zien hoe goed je eigenlijk echt
+                      bent. Zeker op het vlak van zelfstandigheid en
+                      verantwoordelijkheid. Het is ook het perfecte moment om
+                      mezelf sterker te maken op vlak van zelfstandigheid,
+                      verantwoordelijkheid, communicatie en taal, aangezien
+                      talen niet één van mijn sterkste punten zijn. Hoewel ik
+                      nog goed Engels en Nederlands spreek gaat het meestal mis
+                      bij frans of bij een nieuwe taal. Het leren van een
+                      vreemde taal is een uitdaging die soms misloopt bij mij.
+                      De laatste reden waarom ik zo graag ambassadeur wil worden
+                      is om nieuwe culturen te leren kennen. Niet alleen de
+                      cultuur van één van de bestemmingen, maar ook de cultuur
+                      van mijn mede leerlingen. Zo kom je hun dag routine en
+                      eetgewoontes te weten. Ik ben opgewonden om ook mijn
+                      cultuur te laten zien aan mijn medeleerlingen. Van alles
+                      wat de Marokkaanse cultuur aan te bieden heeft.
                     </p>
                   </div>
 

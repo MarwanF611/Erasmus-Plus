@@ -18,7 +18,7 @@ export default function Section1() {
         <a
           onClick={openModal}
           style={{ cursor: "pointer" }}
-          className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-blue-500/10 hover:shadow-blue-500/10 "
+          className="block rounded-xl border-[3.1px] border-gray-800 p-8 transition hover:border-green-300"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -81,7 +81,25 @@ export default function Section1() {
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500">
-                    Na mijn middelbare studies zou ik graag verder willen studeren aan de hogeschool in de IT richting. Eenmaal ik mijn diploma heb behaald ben ik klaar om in gezet te worden voor de echte wereld en word het tijd om opzoek te gaan naar een leuke job. Met het europass zou dit sneller en gemakkelijker verlopen omdat het al zo een mooie prestatie is in mijn leven op een jonge leeftijd. Tijdens mijn job wil ik wat meer ervaring opdoen in de wereld van IT en zo mijn eigen IT/Software bedrijf starten. Als alles goed verloopt vind ik dan dat ik geslaagd heb in mijn leven en word het tijd om van mijn leven te genieten. Ik ben iemand die het niet zo ziet zitten om tot mijn pensioen te werken. Ik ben eerder iemand die voor een paar jaar voor een baas werkt om zo ervaring op te doen om daarna met al die kennis voor mezelf te werken en zelf mijn beslissingen te nemen op vlak van bedrijf. Op dat moment het ik voor mezelf meer vrijheid gecreëerd en kan ik meer tijd spenderen met mijn kinderen, vrouw, familie en zeker niet te vergeten mezelf.
+                      Na mijn middelbare studies zou ik graag verder willen
+                      studeren aan de hogeschool in de IT richting. Eenmaal ik
+                      mijn diploma heb behaald ben ik klaar om in gezet te
+                      worden voor de echte wereld en word het tijd om opzoek te
+                      gaan naar een leuke job. Met het europass zou dit sneller
+                      en gemakkelijker verlopen omdat het al zo een mooie
+                      prestatie is in mijn leven op een jonge leeftijd. Tijdens
+                      mijn job wil ik wat meer ervaring opdoen in de wereld van
+                      IT en zo mijn eigen IT/Software bedrijf starten. Als alles
+                      goed verloopt vind ik dan dat ik geslaagd heb in mijn
+                      leven en word het tijd om van mijn leven te genieten. Ik
+                      ben iemand die het niet zo ziet zitten om tot mijn
+                      pensioen te werken. Ik ben eerder iemand die voor een paar
+                      jaar voor een baas werkt om zo ervaring op te doen om
+                      daarna met al die kennis voor mezelf te werken en zelf
+                      mijn beslissingen te nemen op vlak van bedrijf. Op dat
+                      moment het ik voor mezelf meer vrijheid gecreëerd en kan
+                      ik meer tijd spenderen met mijn kinderen, vrouw, familie
+                      en zeker niet te vergeten mezelf.
                     </p>
                   </div>
 
