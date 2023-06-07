@@ -1,3 +1,5 @@
+
+
 export default function NavBar() {
   return (
     <header aria-label="Site Header" className="bg-white dark:bg-gray-900">
@@ -6,6 +8,8 @@ export default function NavBar() {
           <div className="flex-1 md:flex md:items-center md:gap-12">
             <a className="block text-teal-600 dark:text-teal-300" href="/">
               <span className="sr-only">Home</span>
+
+
               <svg
                 className="h-8"
                 viewBox="0 0 28 24"
@@ -23,8 +27,8 @@ export default function NavBar() {
           <div className="md:flex md:items-center md:gap-12">
             <nav aria-label="Site Nav" className="hidden md:block">
               <ul className="flex items-center gap-6 text-sm">
-                
-                
+
+
               </ul>
             </nav>
 
