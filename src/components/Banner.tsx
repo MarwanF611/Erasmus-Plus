@@ -1,4 +1,4 @@
-import { Dots } from "./dots";
+import { Dots } from "./Dots";
 
 
 
