@@ -38,12 +38,11 @@ export default function Section1() {
           </svg>
 
           <h2 className="mt-4 text-xl font-bold text-white">
-            Wat maakt mij anders dan de andere?
+            Wat zijn mijn competenties?
           </h2>
 
           <p className="mt-1 text-sm text-gray-300">
-            Waarom ben ik de perfecte
-            match voor Erasmus+ 2024?
+            Wat zijn mijn vaardigheden en skills? Hoe kan ik deze inzetten om te groeien?
           </p>
         </a>
       </div>
@@ -78,7 +77,7 @@ export default function Section1() {
                     as="h3"
                     className="text-lg font-medium leading-6 text-white"
                   >
-                    Wat maakt mij anders dan de andere?
+                    Wat zijn mijn competenties?
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-300">
