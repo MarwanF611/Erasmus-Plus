@@ -81,7 +81,7 @@ export default function Section1() {
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-300">
-                      Text coming soon !
+                      Als laatste zijn er nog mijn competenties. Mijn grootste skill is dat ik goed met mezelf en mensen kan omgaan. Ik heb de afgelopen jaren mijn communicatie vaardigheden verbeterd. Vroeger was ik een heel verlegen jongentje maar nu durf ik wat meer te praten met onbekende mensen. Tot slot ben ik respectvol op de moment die nodig zijn, ik weet dan exact hoe ik mij moet gedragen en hoe ik moet praten met bijvoorbeeld iemand die ouder of belangrijker is dan mij.
                     </p>
                   </div>
 
