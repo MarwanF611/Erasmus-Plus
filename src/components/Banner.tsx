@@ -25,13 +25,15 @@ export default function Banner() {
 
           <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
             Beste Jury, ik ben Marwan Fikri. Hieronder vind je meer uitleg over mezelf
-            en waarom ik een goede keuze ben als ambassadeur voor het Erasmus+ project
+            en waarom ik een goede keuze ben als ambassadeur voor het Erasmus+ project.
+
           </p>
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
 
+            <p>
 
-
+            </p>
           </div>
         </div>
       </div>

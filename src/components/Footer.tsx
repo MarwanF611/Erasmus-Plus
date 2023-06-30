@@ -10,6 +10,7 @@ export default function () {
           <p className="mt-4 text-center text-sm text-gray-500 dark:text-gray-400 lg:mt-0 lg:text-right">
             Marwan Fikri &copy; 2023. All rights reserved.
           </p>
+
         </div>
       </div>
     </footer >

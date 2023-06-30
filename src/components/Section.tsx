@@ -13,8 +13,8 @@ export default function Section() {
           </h2>
 
           <p className="mt-4 text-gray-300">
-          Hier onder vind je 4 secties. Je kan op een sectie klikken
-          om meer te weten te komen over mij.
+            Hier onder vind je 4 secties. Je kan op een sectie klikken
+            om meer te weten te komen over mij.
           </p>
         </div>
       </div>
@@ -27,10 +27,11 @@ export default function Section() {
       <div className="mx-auto max-w-screen-xl px-4 py-8 sm:py-12 sm:px-6 lg:py-16 lg:px-8">
         <div className="mx-auto max-w-lg text-center">
           <p className="mt-4 text-gray-300">
-          Ik hoop dat ik bij deze jullie heb overtuigd om mij mee te 
-          kiezen als Ambassadeur voor het Erasmus+ project in 2024. 
-          Het zou een grote eer zijn om hieraan mee te doen en om die 
-          stijlvolle blauwe trui met trots aan te doen.
+            Ik hoop dat ik bij deze jullie heb overtuigd om mij mee te
+            kiezen als Ambassadeur voor het Erasmus+ project in 2024.
+            Het zou een grote eer zijn om hieraan mee te doen en om die
+            stijlvolle blauwe trui met trots aan te doen.
+
           </p>
         </div>
       </div>
