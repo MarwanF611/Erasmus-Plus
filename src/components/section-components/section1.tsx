@@ -43,7 +43,7 @@ export default function Section1() {
 
           <p className="mt-1 text-sm text-gray-300">
             Wie ben ik, wat studeer ik en wat zijn mijn
-            hobby's. 
+            hobby's.
           </p>
         </a>
       </div>
@@ -82,7 +82,7 @@ export default function Section1() {
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-300">
-                    Als eerst wil ik mezelf even voorstelen. Ik ben Marwan Fikri, een 16 jarige student die momenteel aan zijn laatste weken zit van de studie richting IT en Netwerken in het 5de middelbaar. Deze richting volg ik op Sint-Ursula Instituut in Lier. Mijn Hobby’s zijn fitness en tijd spenderen met familie. Mijn grootste droom is om ervoor te zorgen dat ik nog meer tijd kan spenderen met mijn ouders en met mijn kinderen later. Mijn grootste passie is het creëren van allerlei soorten dingen. Dit kan variëren van maaltijden tot websites.
+                      Als eerst wil ik mezelf even voorstelen. Ik ben Marwan Fikri, een 16 jarige student die momenteel aan zijn laatste weken zit van de studie richting IT en Netwerken in het 5de middelbaar. Deze richting volg ik op Sint-Ursula Instituut in Lier. Mijn Hobby’s zijn fitness en tijd spenderen met familie. Mijn grootste droom is om een mooi en gelukig leven te leiden. Mijn grootste passie is fitness. Dit doe ik al bijna 2 jaar
                     </p>
                   </div>
 

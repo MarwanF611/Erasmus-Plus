@@ -81,7 +81,7 @@ export default function Section1() {
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-300">
-                      Na mijn middelbare studies zou ik graag verder willen studeren aan de hogeschool in de IT richting. Eenmaal ik mijn diploma heb behaald ben ik klaar om in gezet te worden voor de echte wereld en word het tijd om opzoek te gaan naar een leuke job. Met het europass zou dit sneller en gemakkelijker verlopen omdat het al zo een mooie prestatie is in mijn leven op een jonge leeftijd. Tijdens mijn job wil ik wat meer ervaring opdoen in de wereld van IT en zo mijn eigen IT/Software bedrijf starten.
+                      Na mijn middelbare studies zou ik graag verder willen studeren aan de hogeschool in de IT richting. nadat ik mijn diploma heb behaald ben ik klaar om opzoek te gaan naar een leuke job. Met het europass zou dit sneller en gemakkelijker verlopen omdat het al zo een grote prestatie is in mijn leven op een jonge leeftijd. Tijdens mijn job wil ik wat meer leren over IT en zo mijn eigen IT/Software bedrijf starten.
                     </p>
                   </div>
 
